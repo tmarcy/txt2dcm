@@ -15,7 +15,7 @@ Basic software written in C++11 about multimedia processing. Basic software writ
 ## Reference
 * [PPM Format Specifications](http://netpbm.sourceforge.net/doc/ppm.html)
 * [DICOM - Digital Imaging and Communications in Medicine international standard ] (https://www.dicomstandard.org/)
-N.B. Dicom file format specification summarized in "DICOM_testo" (italian language); it is a simplified version for exercise purpose.
+* N.B. Dicom file format specification summarized in "DICOM_testo" (italian language); it is a simplified version for exercise purpose.
 
 ## Utility
 
