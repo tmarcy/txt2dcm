@@ -1,0 +1,7 @@
+Name:	Luca
+Surname:	Rossi
+Birth date:	02/08/1978
+ID:	128764h/dg
+Sex: M
+File:	rana.ppm
+Implementation:	1.234.456.1.987
