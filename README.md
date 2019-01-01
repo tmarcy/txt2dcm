@@ -1,11 +1,16 @@
 # txt2dcm
-Basic software written in C++11 about multimedia processing. Extract information from a file in txt format and save them in a file in Dicom Format, according to specifications.
+Basic software written in C++11 about multimedia processing. Basic software written in C++11 about multimedia processing. Extract info from a file in txt format and save them in a file in Dicom format, according to specifications.
 
 ## What the program has to do
 
 * command line program which accepts these options: programname <input file .txt> <output file .DCM>;
 * manage command line arguments;
-* extract the image in txt Format and then convert it in DICOM format according to specifications.
+* extract info about patients and image name from a file in txt format and then save them in a new file in DICOM format according to specifications.
+
+## file.txt specifications
+* each row contains information in this way: <field name>:<tab><field value>;
+* field name to consider: File (file PPM name), Surname (patient's), Name (patient's), ID, Sex (M,F), Implementation;
+* field order is variable.
 
 ## Reference
 * [PPM Format Specifications](http://netpbm.sourceforge.net/doc/ppm.html)
